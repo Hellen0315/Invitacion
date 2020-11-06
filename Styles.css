@@ -11,7 +11,7 @@ body {
   transform: translate(-50%,-50%);
   width: 360px;
   height: 400px;
-  background: #000;
+  background: white;
 }
 .card .image {
   width: 100%;
