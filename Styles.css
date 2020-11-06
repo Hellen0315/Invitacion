@@ -13,12 +13,10 @@ body {
 .imagen{
   width:100%;
   height: 100%;
+  justify-content: center;
 }
 .footer{
   color: brown;
-  justify-content: center;
-}
-.audio{
   justify-content: center;
 }
 
