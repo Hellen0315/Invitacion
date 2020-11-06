@@ -10,7 +10,7 @@ body {
   left: 70%;
   transform: translate(-80%,-80%);
   width: 800px;
-  height: 560px;
+  height: 580px;
   background: white;
 }
 .card .image {
@@ -18,15 +18,12 @@ body {
   height: 100%;
   overflow: hidden;
 }
-.image-map {
-  width: 10px;
-  height: 10px;
-}
-.card .image img .image-map {
+
+.card .image img {
   width: 100%;
   transition: .10s;
 }
-.card:hover .image img .image-map {
+.card:hover .image img {
   opacity: .5;
   transform: translateX(30%);/*100%*/
 }
