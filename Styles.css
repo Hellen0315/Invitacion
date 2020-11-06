@@ -12,7 +12,10 @@ body {
   background: white;
   margin: 0;
 }
-
+.imagen{
+  width: 60%;
+  height: 60%;
+}
 .footer{
   color: brown;
   justify-content: center;
