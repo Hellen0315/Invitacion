@@ -1,16 +1,19 @@
 body {
   margin: 0;
   padding: 0;
-  background: #250008;
+  background: white;
   font-family: sans-serif;
 }
 .card {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 800px;
-  height: 570px;
+  width:600px;
+  height: 470px;
   background: white;
 }
-
+.footer{
+  color: brown;
+  justify-content: center;
+}
 
