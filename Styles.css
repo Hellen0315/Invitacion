@@ -13,8 +13,8 @@ body {
   margin: 0%;
 }
 .imagen{
-  width: 250px;
-  height: 150px;
+  width:100%;
+  height: 80%;
 }
 .footer{
   color: brown;
