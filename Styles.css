@@ -11,9 +11,9 @@ body {
   justify-content: center;
   background: white;
   margin: 0;
-  width: 100vw;
+  width: 50vw;
   min-height: 450px;
-  height: 100vh;
+  height: 30vh;
 }
 .card .image {
   width: 100%;
