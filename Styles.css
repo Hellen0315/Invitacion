@@ -10,11 +10,11 @@ body {
   align-items: center;
   justify-content: center;
   background: white;
-  margin: 0;
+  margin: 10%;
 }
 .imagen{
-  width: 60%;
-  height: 60%;
+  width: 100px;
+  height: 50px;
 }
 .footer{
   color: brown;
