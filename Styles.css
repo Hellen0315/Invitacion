@@ -23,6 +23,10 @@ body {
   width: 50%;
   height: 50%;
 }
+.image-map {
+  width: 30%;
+  height: 30%;
+}
 .footer{
   color: brown;
   justify-content: center;
