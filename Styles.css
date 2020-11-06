@@ -11,18 +11,8 @@ body {
   justify-content: center;
   background: white;
   margin: 0;
-  width: 50vw;
-  min-height: 450px;
-  height: 30vh;
 }
-.image {
-  width: 50%;
-  height: 50%;
-}
-.image-map {
-  width: 30%;
-  height: 30%;
-}
+
 .footer{
   color: brown;
   justify-content: center;
